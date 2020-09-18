@@ -10,9 +10,20 @@ It's a series of classes and programs related to personal archiving. Check out t
 
 Personal archiving can help keep you organized and to more easily find important items. Losing track of your assets and online accounts is a threat to your personal identity, security, and legacy. Lastly, your personal archives should endure not only for your loved ones, but for the record of your community and culture.  
 
+### *What can I transfer there?*
+-VHS
+-VHS-C
+-S-VHS
+-miniDV
+-DVCAM
+-Compact audio cassette
+-3.5" Floppy
+-Documents and photographs (up to 12"x17")
+-Slides and negatives (up to 12"x17")
+
 #### *How do I use the lab space?*
 
-1. Identify what you have to make sure that you can transfer your particular formats with our equipment. This [resource](https://libguides.dclibrary.org/memorylab/resources/identify-formats) can help you.
+1. Identify what formats you have to make sure that you can transfer them with our equipment. This [resource](https://libguides.dclibrary.org/memorylab/resources/identify-formats) can help you.
 
 2. Review and sign the [release form](https://www.dclibrary.org/sites/default/files/ReleaseForm_0.pdf). If you are younger than 18, parental consent is required. The Memory Lab is designated for use by people ages 13 and older. Children ages 6-12 must be accompanied by a parent or legal guardian at all times.
 
