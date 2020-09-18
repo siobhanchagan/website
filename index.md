@@ -1,8 +1,10 @@
 ### The Memory Lab
 #### *What is it?*
-You can use the [editor on GitHub](https://github.com/memorylabnetwork/website/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+A physical space that provides equipment for transferring your home movies, photographs, and slides to digital files. It's a do-it-yourself (DIY)  model, meaning we provide step-by-step instructions, but you control the process from start to finish. 
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+It's an [online resource](https://libguides.dclibrary.org/memorylab/resources). Learn how to take care of your physical and digital possessions and get resources to help you in your personal archiving projects from the DC Public Library. 
+
+It's a series of classes and programs related to personal archiving. Check out the Library's [online calendar](https://www.dclibrary.org/calendar) for upcoming events near you!
 
 #### *Why should I use it?*
 
