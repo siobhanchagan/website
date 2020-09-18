@@ -10,16 +10,16 @@ It's a series of classes and programs related to personal archiving. Check out t
 
 Personal archiving can help keep you organized and to more easily find important items. Losing track of your assets and online accounts is a threat to your personal identity, security, and legacy. Lastly, your personal archives should endure not only for your loved ones, but for the record of your community and culture.  
 
-### *What can I transfer there?*
--VHS
--VHS-C
--S-VHS
--miniDV
--DVCAM
--Compact audio cassette
--3.5" Floppy
--Documents and photographs (up to 12"x17")
--Slides and negatives (up to 12"x17")
+#### *What can I transfer there?*
+- VHS
+- VHS-C
+- S-VHS
+- miniDV
+- DVCAM
+- Compact audio cassette
+- 3.5" Floppy
+- Documents and photographs (up to 12"x17")
+- Slides and negatives (up to 12"x17")
 
 #### *How do I use the lab space?*
 
