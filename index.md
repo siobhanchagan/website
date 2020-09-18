@@ -1,6 +1,8 @@
 ### The Memory Lab
 #### *What is it?*
-A physical space that provides equipment for transferring your home movies, photographs, and slides to digital files. It's a do-it-yourself (DIY)  model, meaning we provide step-by-step instructions, but you control the process from start to finish. The Lab is located on the A Level of DC Public Library's Martin Luther King Jr. Memorial Library which opens for limited services on Sept. 24. Learn more [here](https://www.dclibrary.org/mlk2020).
+A physical space that provides equipment for transferring your home movies, photographs, and slides to digital files. It's a do-it-yourself (DIY)  model, meaning we provide step-by-step instructions, but you control the process from start to finish. 
+
+The Lab is located on the A Level of DC Public Library's Martin Luther King Jr. Memorial Library which opens for limited services on Sept. 24. Learn more [here](https://www.dclibrary.org/mlk2020).
 
 It's an [online resource](https://libguides.dclibrary.org/memorylab/resources). Learn how to take care of your physical and digital possessions and get resources to help you in your personal archiving projects from the DC Public Library.
 
@@ -8,7 +10,7 @@ It's a series of classes and programs related to personal archiving. Check out t
 
 #### *Why should I use it?*
 
-Personal archiving can help keep you organized and to more easily find important items. Losing track of your assets and online accounts is a threat to your personal identity, security, and legacy. Lastly, your personal archives should endure not only for your loved ones, but for the record of your community and culture. 
+Personal archiving can help keep you organized and to easily find important items. Losing track of your assets and online accounts is a threat to your personal identity, security, and legacy. Lastly, your personal archives should endure not only for your loved ones, but for the record of your community and culture. 
 
 #### *What can I transfer there?*
 - VHS
