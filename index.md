@@ -1,3 +1,5 @@
+![logo](/assets/img/MemoryLabLogo.png)
+
 ## Best Heading
 
 You can use the [editor on GitHub](https://github.com/memorylabnetwork/website/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
@@ -10,7 +12,7 @@ Markdown is a lightweight and easy-to-use syntax for styling your writing.
 
 For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
 
-![logo](/assets/img/MemoryLabLogo.png)
+
 
 ### Jekyll Themes
 
