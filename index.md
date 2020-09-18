@@ -8,15 +8,21 @@ It's a series of classes and programs related to personal archiving. Check out t
 
 #### *Why should I use it?*
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. 
+Personal archiving can help keep you organized and to more quickly and easily find important items. Losing track of your assets and online accounts is a threat to your personal identity, security, and legacy. Lastly, your personal archives should endure not only for your loved ones, but for the record of your community and culture.  
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+#### *How do I use the lab space?*
+
+1. Identify what you have to make sure that you can transfer your particular formats with our equipment. 
+2. Review and sign the release form. If you are younger than 18, parental consent is required. 
+3. Book and complete the one-hour Memory Lab orientation (this is required). You must have a library card to book a session. 
+4. Book your appointment. All appointments are three-hours, and you may double book if available.
+5. Arrange to get an external hard drive (USB 2.0 or 3.0) that is formatted for Macs and Windows, or arrange for enough cloud storage space. 
+6. Arrive to your first session 15 minutes early and check-in with staff at the information desk. Staff will inspect your digital media to ensure that it does not harm Memory Lab equipment and will point you to the Lab. Make sure to bring your signed release form and your digital storage as well. 
+6. Refer to the Memory Lab guides for step-by-step instructions, and transfer all of your newly created digital files to your digital storage.
+7. Log out of the Memory Lab (WARNING: after logging out, all of your files will be deleted from our computer for security purposes)
+8. Attend a personal archiving class at the Memory Lab or refer to our online resources to take care of your digital files!
 
 
-#### *How do I use it?*
+#### *Got questions?*
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/memorylabnetwork/website/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-#### *Who can I contact?*
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+Contact us at memory.lab@dc.gov  
