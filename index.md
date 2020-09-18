@@ -1,4 +1,4 @@
-## Welcome to ![logo](/assets/img/MemoryLabLogo.jog)
+##![logo](/assets/img/MemoryLabLogo.jpg)
 
 You can use the [editor on GitHub](https://github.com/memorylabnetwork/website/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
 
