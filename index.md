@@ -14,7 +14,7 @@ It's a series of classes and programs related to personal archiving. Check out t
 Personal archiving can help keep you organized and to easily find important items. Losing track of your assets and online accounts is a threat to your personal identity, security, and legacy. Lastly, your personal archives should endure not only for your loved ones, but for the record of your community and culture. 
 
 #### *What can I transfer there?*
-- VHS
+-VHS
 - VHS-C
 - S-VHS
 - MiniDV
