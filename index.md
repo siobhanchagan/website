@@ -1,3 +1,4 @@
+![MLK Lab in 2016](/assets/img/2016mlklab.jpg)
 ### The Memory Lab
 #### *What is it?*
 A physical space that provides equipment for transferring your home movies, photographs, and slides to digital files. It's a do-it-yourself (DIY)  model, meaning we provide step-by-step instructions, but you control the process from start to finish. 
