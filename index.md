@@ -40,7 +40,7 @@ Personal archiving can help keep you organized and to easily find important item
 
 7. Refer to the Memory Lab [guides](https://libguides.dclibrary.org/memorylab/in-the-lab) for step-by-step instructions, and transfer all of your newly created digital files to your digital storage. Log out when you are finished transferring (WARNING: after logging out, all of your files will be deleted from our computer for security purposes).
 
-8. Attend a personal archiving class at the Memory Lab or refer to our online resources to take care of your digital files! Check out the Library's [online calendar](https://www.dclibrary.org/calendar) for upcoming events near you!
+8. Attend a personal archiving class at the Memory Lab or refer to our online resources to learn about preserving your recently transferred digital files. Check out the Library's [online calendar](https://www.dclibrary.org/calendar) for upcoming events near you!
 
 
 #### *Got questions?*
