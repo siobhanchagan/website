@@ -1,4 +1,4 @@
-This website template was made by the Memory Lab Network and is for use by any organization that wishes to run a Memory Lab.
+This website template was made by the Memory Lab Network and is available for use by any organization that wishes to run a Memory Lab.
 
 The Memory Lab Network is a project at DC Public Library (DCPL) funded by the Institute of Museum and Library Services (IMLS) through a National Leadership Grant to build Memory Lab digital preservation programs in public libraries across the U.S. based on the DCPL Memory Lab model. Through an application process, public libraries were identified as the Memory Lab Network project partners. All Memory Lab Network partners receive training, mentoring and financial support to create digitization stations and curricula to build public knowledge and skills around the complex and paralyzing problems of personal digital archiving through their own Memory Lab programs.
 
